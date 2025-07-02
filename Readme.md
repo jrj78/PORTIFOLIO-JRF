@@ -6,4 +6,4 @@
 <p>2.4 Desenvolvido a parte Contato e o formulário apresentando as devidas capas pelo css, incluindo botão whatsApp.</p>
 <p>2.5 Inserindo animação na foto fazendo um pequeno movimento.</p>
 <p>2.6 Projeto com html, css finalizado.</p>
-<p>3  Inicio do JavaScript
+<p>3  Inicio do JavaScript</p>
