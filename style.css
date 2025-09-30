@@ -97,7 +97,7 @@ h1 {
 }
 
 .sobre {
-    padding: 25rem 2rem;
+    padding: 24rem 2rem;
 
 }
 
@@ -126,7 +126,7 @@ h1 {
 }
 
 .projetos {
-    padding: 19rem 2rem;
+    padding: 18rem 2rem;
 }
 
 .projetos-titulo {
@@ -178,7 +178,7 @@ h1 {
 }
 
 .contatos {
-    padding: 14rem 2rem;
+    padding: 18rem 2rem;
 }
 
 .contatos-titulo {
@@ -195,6 +195,7 @@ h1 {
     padding: 2rem;
     border: 1px solid var(--vidro);
     border-radius: 16px;
+    gap: 1.5rem;
 }
 
 .campo-form {
@@ -213,7 +214,7 @@ h1 {
 }
 
 .grupo-form {
-    margin-bottom: 1.5rem;
+    margin-bottom: 1.5rem;  
 }
 
 .botao-form {
